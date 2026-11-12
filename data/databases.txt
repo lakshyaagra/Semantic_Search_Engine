@@ -1,0 +1,11 @@
+A database is an organized collection of data.
+
+Relational databases store information in tables
+consisting of rows and columns.
+
+SQL is used to query and manipulate relational databases.
+
+PostgreSQL and MySQL are popular relational databases.
+
+Vector databases store numerical embeddings and
+support similarity search over those embeddings.

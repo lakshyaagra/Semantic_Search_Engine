@@ -1,0 +1,11 @@
+Machine learning is a branch of artificial intelligence.
+
+It enables computers to learn patterns from data
+without being explicitly programmed for every task.
+
+Supervised learning uses labeled training data.
+Unsupervised learning discovers hidden patterns
+in unlabeled data.
+
+Neural networks are computational models inspired
+by the structure of the human brain.
