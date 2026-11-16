@@ -22,3 +22,27 @@ def chunk_text(text, chunk_size=100, overlap=20):
         start = end - overlap
 
     return chunks
+
+
+# if __name__ == "__main__":
+
+#     with open("data/python.txt", "r", encoding="utf-8") as file:
+#         text = file.read()
+
+#     configurations = [
+#         (50, 10),
+#         (100, 20),
+#         (200, 40)
+#     ]
+
+#     for size, overlap in configurations:
+
+#         chunks = chunk_text(
+#             text,
+#             chunk_size=size,
+#             overlap=overlap
+#         )
+
+#         print(f"\nChunk size: {size}, Overlap: {overlap}")
+#         print("Number of chunks:", len(chunks))
+#         print("First chunk:", chunks[0][:150])
